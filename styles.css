@@ -1,0 +1,63 @@
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  padding: 4rem 0 1rem 0;
+  font-family: 'Quicksand', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 5.2rem;
+  color: #4ECCA3;
+}
+
+button {
+  font-family: 'Julius Sans One', sans-serif;
+  letter-spacing: 6px;
+}
+
+p {
+  padding-top: 2rem;
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+img {
+  width: 70%;
+}
+
+footer {
+  margin-top: 1%;
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+/* Main Content */
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+/* Footer Classes */
+
+.copyright {
+  font-size: 1rem;
+  color: #EEEEEE;
+}
+
+.teiyah-footer {
+  font-size: 1.1rem;
+  text-decoration: none;
+  color: #EEEEEE;
+}
+
+.teiyah-footer:hover {
+  color: #4ECCA3;
+}
