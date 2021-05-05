@@ -1,2 +1,2 @@
 # dice-game
- A Simple Dice Game in JavaScript
+Course: The Complete 2021 Web Development Bootcamp by Dr. Angela Yu
